@@ -1,5 +1,15 @@
 # 🎙️ RedFlag – Détection de Toxicité en Jeu Vidéo
 
+
+#Members 
+
+Alex 
+Kristale
+Ariel
+Thalia
+Moira
+
+
 ## 📌 Description
 **Red Flag** est un système de **détection en temps réel de toxicité vocale** dans les jeux en ligne.  
 Le projet s’appuie sur la **transcription de la voix en texte (speech-to-text)**, puis sur un module de classification qui identifie les propos offensants, injurieux ou menaçants.  
